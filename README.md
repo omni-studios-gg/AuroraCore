@@ -16,13 +16,6 @@
 ---
 
 
-## 🛠️ Tech Stack
-Service	Technologies
-AuthServer	ASP.NET Core, SQLite/MySQL
-WorldServer	Unity 2022+, Mirror Networking, C#
-Chat Service	FastAPI/Node.js, Redis, WebSocket
-Logging	PostgreSQL, Discord Webhooks
-
 ## 📂 Project Structure  
 ```plaintext
 AuroraCore/
