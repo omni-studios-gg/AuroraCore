@@ -17,9 +17,9 @@
 🛠️ Tech Stack
 
 - **AuthServer**: ASP.NET Core, SQLite/MySQL
-- **PlayerManager**: .Net Core 9v
-- **ZoneManager**: .Net Core 9v
-- **ServerManager**: .Net Core 9v
+- **PlayerManager**: Net Core 9v
+- **ZoneManager**: Net Core 9v
+- **ServerManager**: Net Core 9v
 
 
 
