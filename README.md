@@ -9,7 +9,7 @@
 ## 🚀 Features  
 - **Secure Authentication**: Token-based auth with IP tracking and brute-force protection  
 - **Dynamic World Servers**: Unity-based sharding with Zone/Player management  
-- **Real-time Chat**: Redis-backed pub/sub for cross-server communication  
+- **Real-time Chat**:  
 - **Moderation Tools**: Activity logging with Discord webhook alerts  
 - **Planned**: Cross-realm inventory and auction system (Q4 2024)  
 
