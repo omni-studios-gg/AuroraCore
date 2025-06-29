@@ -16,14 +16,4 @@
 ---
 
 
-## 📂 Project Structure  
-```plaintext
-AuroraCore/
-├── Auth/                # AuthServer + Logging (ASP.NET Core)
-├── World/               # WorldServer + Managers (Unity)
-├── Chat/                # Chat Service (FastAPI/Node.js)
-├── Inventory/           # (Planned) Item/auction system
-├── Libs/                # Shared core libraries
-└── Tools/               # Developer utilities```
-
 
