@@ -8,11 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingService", "LoggingSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManagerServer", "PlayerManagerServer\PlayerManagerServer.csproj", "{A6124E81-2E49-4AF0-8F58-CF7051DDAE10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWorldseever", "TestWorldseever\TestWorldseever.csproj", "{EB606921-5AFF-4704-8455-C59AEF462AEE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatserver", "Chatserver\Chatserver.csproj", "{80CFEBFF-02B7-4B12-BD81-D959B3834885}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServerManager", "GameServerManager\GameServerManager.csproj", "{B605B32A-5345-4EC0-8D89-7B34D60082F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,17 +32,9 @@ Global
 		{A6124E81-2E49-4AF0-8F58-CF7051DDAE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6124E81-2E49-4AF0-8F58-CF7051DDAE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6124E81-2E49-4AF0-8F58-CF7051DDAE10}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EB606921-5AFF-4704-8455-C59AEF462AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB606921-5AFF-4704-8455-C59AEF462AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB606921-5AFF-4704-8455-C59AEF462AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB606921-5AFF-4704-8455-C59AEF462AEE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{80CFEBFF-02B7-4B12-BD81-D959B3834885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{80CFEBFF-02B7-4B12-BD81-D959B3834885}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80CFEBFF-02B7-4B12-BD81-D959B3834885}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80CFEBFF-02B7-4B12-BD81-D959B3834885}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B605B32A-5345-4EC0-8D89-7B34D60082F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B605B32A-5345-4EC0-8D89-7B34D60082F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B605B32A-5345-4EC0-8D89-7B34D60082F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B605B32A-5345-4EC0-8D89-7B34D60082F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
